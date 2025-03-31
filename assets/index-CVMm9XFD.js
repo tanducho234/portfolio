@@ -192,7 +192,7 @@ Error generating stack: `+n.message+`
     position: relative;
     z-index: 1;
   }
-`,sE=()=>X.jsx(Vr,{id:"home",children:X.jsx(F2,{children:X.jsxs(W2,{children:[X.jsxs(I2,{children:[X.jsxs(aE,{children:["Hi, ",X.jsx("br",{}),"I'm ",X.jsx(iE,{children:"Ho Duc Tan"}),X.jsx("br",{}),"Full Stack Software Developer"]}),X.jsx(lE,{href:"#contact",whileHover:{scale:1.05},whileTap:{scale:.95},children:X.jsx("span",{children:"Contact"})})]}),X.jsx(tE,{children:X.jsx(eE,{initial:{scale:.8,opacity:0},animate:{scale:1,opacity:1},transition:{duration:.5,delay:.2},children:X.jsx(nE,{src:"assets/images/avatar.jpg",alt:"Ho Duc Tan"})})})]})})}),Jg=rt.h2`
+`,sE=()=>X.jsx(Vr,{id:"home",children:X.jsx(F2,{children:X.jsxs(W2,{children:[X.jsxs(I2,{children:[X.jsxs(aE,{children:["Hi, ",X.jsx("br",{}),"I'm ",X.jsx(iE,{children:"Ho Duc Tan"}),X.jsx("br",{}),"Web Developer"]}),X.jsx(lE,{href:"#contact",whileHover:{scale:1.05},whileTap:{scale:.95},children:X.jsx("span",{children:"Contact"})})]}),X.jsx(tE,{children:X.jsx(eE,{initial:{scale:.8,opacity:0},animate:{scale:1,opacity:1},transition:{duration:.5,delay:.2},children:X.jsx(nE,{src:"assets/images/avatar.jpg",alt:"Ho Duc Tan"})})})]})})}),Jg=rt.h2`
   font-size: ${a=>a.theme.typography.h2.fontSize};
   color: ${a=>a.theme.colors.text};
   margin-bottom: ${a=>a.theme.spacing.lg};
